@@ -1,0 +1,18 @@
+[
+  {
+    "isbn": "9876543210",
+    "title": "A vida é bela",
+    "author": "Gabriel Fernando",
+    "publish_date": "2019-12-08",
+    "publisher": "Editora Mel",
+    "numOfPages": 388
+  },
+  {
+    "isbn": "0123456789",
+    "title": "A vida é feia",
+    "author": "Melanie Miranda",
+    "publish_date": "2019-12-13",
+    "publisher": "Editora Biel",
+    "numOfPages": 259
+  }
+]
